@@ -1,0 +1,1 @@
+for(i in document.images)document.images[i].ondragstart=imgdragstart;

@@ -1,0 +1,12 @@
+防复制
+1CopyRights.js
+2CopyRights.js
+
+评论烟花特效
+activate-power-mode.js
+
+网页背景动态点线条特效 未使用
+canvas-nest.js
+
+点击爱国特效
+common.js
