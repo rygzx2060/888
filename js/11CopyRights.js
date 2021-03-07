@@ -40,4 +40,4 @@ function imgdragstart(){return false;}
 document.onselectstart=mylock1;
 function mylock1(){
 event.returnValue=false;
-};
+}
