@@ -37,8 +37,7 @@ window.onload = function(){
 //禁止鼠标拖动图片
 function imgdragstart(){return false;}  
 //禁止鼠标选择网页元素
-<!--
 document.onselectstart=mylock1;
 function mylock1(){
 event.returnValue=false;
-}
+};
