@@ -32,11 +32,8 @@ window.onload = function(){
     document.oncontextmenu = function (){
     return false;
     }
-    }
-    </script>
-    
+    };
 
-<script language="javascript">
 //禁止鼠标拖动图片
 function imgdragstart(){return false;}  
 //禁止鼠标选择网页元素
